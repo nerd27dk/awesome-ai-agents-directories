@@ -3,7 +3,7 @@
 A comprehensive  list of the best AI agent directories available online. This curated collection includes websites and GitHub repositories that feature top AI agents, frameworks, and tools. Whether you're a developer, researcher, or entrepreneur, this list helps you discover, evaluate, and integrate the most powerful AI agents and platforms in the ecosystem.
 
 ## AI Agents Directories
-- [Altern AI Agents](https://altern.ai/ai-agents) - The world's largest AI agent marketplace, offering 1000+ agents across 50+ categories like productivity, coding, and voice AI.
+- [Altern AI Agents](https://altern.ai/categories/ai-agents) - Altern's AI-agent category, covering agent apps, tools and frameworks.
 - [AI For Developers](https://aifordevelopers.org/category/coding-agents) - A List of Coding Agents
 - [AI Agents Directory](https://aiagentsdirectory.com) - Comprehensive comparison platform with filters for AI agent capabilities, pricing, use cases
 - [AI Agents List](https://aiagentslist.com) - Comprehensive comparison platform with filters for AI agent capabilities, pricing, use cases (e.g., customer service, HR, design, marketing).
@@ -11,6 +11,20 @@ A comprehensive  list of the best AI agent directories available online. This cu
 - [AI Agent Store](https://aiagentstore.ai/) - A marketplace and discovery hub with categorized agents by profession and use case. Developers can list and monetize their agents.
 - [Add AI Directory](https://addaidirectory.com/) - An online platform that catalogs and categorizes AI agents and tools. Users can easily discover, compare, and select AI solutions, while businesses can advertise featured AI agents.
 
+
+
+## Agent-Readable Registries & Service Discovery
+
+These specialize in MCP servers, A2A agents, x402 services or cross-directory discovery rather than generic AI app lists. The linked public catalogs or their documentation were checked on 2026-10-25; inclusion is not an endorsement or a guarantee of endpoint uptime.
+
+- [A2A Directory](https://a2a.directory/) - Searchable index of agents and capabilities published for the Agent-to-Agent (A2A) protocol.
+- [Agentic Index](https://agenticindex.io/best/production-ready-ai-agents) - Business-focused AI-agent vendor directory with dated documentation-based capability assessments.
+- [Agentic Market](https://agentic.market/) - Coinbase-operated marketplace for discovering x402-payable API services, with listed prices and usage indicators.
+- [AgentNDX](https://agentndx.ai/) - Searchable registry of MCP servers, A2A agents, and x402 services with agent-facing discovery APIs.
+- [agent-tools.cloud](https://agent-tools.cloud/) - Aggregated discovery index for x402 services, MCP servers, and A2A agents with published liveness checks.
+- [Baipiaoji Agents](https://baipiaoji.com/en/agents/) - Source-dated directory of AI agents, MCP servers, and agent platforms with per-record check dates.
+- [Official MCP Registry](https://registry.modelcontextprotocol.io/) - Public metadata registry and machine-readable API for published Model Context Protocol servers.
+- [Skillful.sh](https://skillful.sh/) - Cross-directory search for AI agents, agent skills, and MCP servers.
 
 
 ## GitHub Repositories
